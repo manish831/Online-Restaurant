@@ -1,0 +1,53 @@
+@media screen and (max-width:1150px) {
+
+    /* navigation menu */
+    #navbar {
+        flex-direction: column;
+    }
+    #navbar ul li {
+            font-size: 1rem;
+            padding: 0px 7px;
+            padding-bottom: 8px;
+        }
+        #home::before {
+            height: 450px;
+            flex-direction: column;
+        }
+    
+        /* #logo img {
+    margin: 50px;
+    align-items: center;
+    } */
+        #home p {
+            font-size: 13px;
+        }
+    
+        .h-prim {
+            font-size: 25px;
+        }
+    
+        /* service section */
+        #services {
+            flex-direction: column;
+    
+        }
+    
+        #services .box {}
+    
+        /* client section */
+    
+        #clients {
+            overflow: hidden;
+        }
+    
+        /* contact section */
+    
+        /* footer */
+    
+    }
+      
+
+   
+
+
+   
